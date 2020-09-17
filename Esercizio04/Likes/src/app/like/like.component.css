@@ -1,0 +1,15 @@
+.material-icons {
+    color: #ccc;
+    cursor: pointer;
+    user-select: none;
+    display: inline-flex;
+    vertical-align: top;
+}
+
+.highlighted {
+    color: deeppink;
+}
+
+.counter {
+ line-height: 24px;
+}
